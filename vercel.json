@@ -13,7 +13,7 @@
           "value": "DENY"
         }, {
           "key": "cache-control",
-          "value": "private, max-age=86400, stale-while-revalidate=604800"
+          "value": "public, max-age=86400, stale-while-revalidate=604800"
         }, {
           "key": "access-control-allow-origin",
           "value": "*"
